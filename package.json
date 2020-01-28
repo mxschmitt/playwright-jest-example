@@ -1,0 +1,17 @@
+{
+  "name": "playwright-jest-example",
+  "version": "1.0.0",
+  "description": "Example how to use Playwright in combination with Jest.",
+  "main": "index.js",
+  "repository": "https://github.com/mxschmitt/playwright-jest-example",
+  "author": "Max Schmitt <max@schmitt.mx>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "playwright": "^0.9.24",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

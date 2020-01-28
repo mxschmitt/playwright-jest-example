@@ -1,2 +1,3 @@
-# playwright-jest-example
-Example how to use Playwright in combination with Jest.
+# Playwright Jest example
+
+> Example how to use Playwright in combination with Jest.
